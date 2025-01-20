@@ -28,7 +28,8 @@ This repository contains the penetration testing report for the **TechEcommerce 
 3. **Replay Attack**
 4. **Brute Force**
 5. **Data Disclosure**
-6. **IDOR**
+6. **Insider Attack**
+7. **IDOR**
 
 ### Unsuccessful Attacks  <br><br>
 
