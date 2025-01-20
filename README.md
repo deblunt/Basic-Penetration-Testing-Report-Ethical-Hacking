@@ -19,33 +19,33 @@ This repository contains the penetration testing report for the **TechEcommerce 
 
 ## Attack Summary
 ### Successful Attacks
-1. **SQL Injection**: Bypassed authentication; fixed with prepared statements.
-2. **Data Tampering**: Altered sensitive data; fixed with validation and encryption.
-3. **Replay Attack**: Reused requests; mitigated with nonces and token validation.
-4. **Brute Force**: Exploited weak credentials; added rate limiting and CAPTCHA.
-5. **Data Disclosure**: Accessed sensitive data; secured with encryption and access controls.
-6. **IDOR**: Manipulated resources; resolved with proper authorization checks.
+1. **SQL Injection**
+2. **Data Tampering**
+3. **Replay Attack**
+4. **Brute Force**
+5. **Data Disclosure**
+6. **IDOR**
 
 ### Unsuccessful Attacks
-1. **MITM**: Failed due to localhost constraints.
-2. **Key Disclosure**: No encryption implemented.
-3. **Tampered Content**: No upload features available.
-4. **CSRF**: Cross-origin requests not supported.
-5. **XSS**: No dynamic input to exploit.
+1. **MITM**
+2. **Key Disclosure**
+3. **Tampered Content**
+4. **CSRF**
+5. **XSS**
 
 ---
 
 ## Fixes Implemented
-- **Prepared Statements for SQL Queries**: Implemented using `mysqli_stmt_bind_param()` to ensure input sanitization and prevent SQL injection.
-- **Password Hashing**: Passwords are hashed using `password_hash()` with the `PASSWORD_BCRYPT` algorithm for enhanced security.
+- **Prepared Statements for SQL Queries**
+- **Password Hashing**
 
 ---
 
 ## Recommended Fixes (Pending Implementation)
-- **AES-256 Encryption**: Recommended for securing data at rest.
-- **Role-Based Access Control (RBAC)**: Suggested for enforcing least privilege access.
-- **Nonces and Tokens**: Advised for validating requests to mitigate replay attacks.
-- **Detailed Logging**: Proposed for anomaly detection and tracking unauthorized access attempts.
+- **AES-256 Encryption**
+- **Role-Based Access Control (RBAC)**
+- **Nonces and Tokens**
+- **Detailed Logging**
 
 ---
 
